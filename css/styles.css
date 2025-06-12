@@ -2,13 +2,34 @@ body{
     background-image: linear-gradient(to bottom right,orange,rgb(43, 255, 0));
 }
 h1{
+    color:black;
     font-weight: bolder;
 }
 h2{
     color:purple;
     font-weight:900;
 }
-h3{
-    color:rgb(127, 36, 213);
 
+.tra{
+    max-width:70%;
+    height:auto;
+    width:800px;
+    background:transparent;
+   /* mix-blend-mode: multiply;    
+*/}
+.sal{
+    width:300;
+    height:auto;
+    max-width: 70%;
+}
+div h3{
+    color:brown;
+}
+
+.s1,.s2{
+    width:45%;
+    height:auto;
+}
+.g{
+    max-width:70%;
 }
