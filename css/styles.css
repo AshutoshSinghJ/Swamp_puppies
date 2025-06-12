@@ -1,9 +1,9 @@
 body{
     background-image: linear-gradient(to bottom right,orange,rgb(43, 255, 0));
-    font-size:1.0rem;
+    font-size:0.9rem;
 }
 img{
-    max-width:70%;
+    max-width:85%;
     height:auto;
 }
 h1{
@@ -14,7 +14,7 @@ h1{
 }
 .im,.m{
     width:48%;
-    margin:20px;
+    margin:1%;
 }
 h2{
     color:purple;
